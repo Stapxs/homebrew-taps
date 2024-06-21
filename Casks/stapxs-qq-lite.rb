@@ -1,9 +1,9 @@
 cask "stapxs-qq-lite" do
     arch arm: "arm64", intel: "x64"
   
-    version "2.7.12"
-    sha256 arm:   "5bd0ce02ad95afae0eb85a02336dc4c0a217402bac78fd5305137fdd7d47f3a1",
-           intel: "8b51f9d36b70c52bbd766dcdd607b498770199b59cd770387193efbfc379d4a0"
+    version "2.7.13"
+    sha256 arm:   "d0b9d9d3c985ff6f5917e4f5822cb71aecd818f29de54d44cc662fe072c64874",
+           intel: "963c657cbd3ff22e07693bc2bfea454a40a9f91d9a33fa9d3cce42255d328ffe"
   
     url "https://github.com/Stapxs/Stapxs-QQ-Lite-2.0/releases/download/v#{version}/Stapxs.QQ.Lite-#{version}-#{arch}.dmg"
     name "Stapxs QQ Lite"
