@@ -1,7 +1,7 @@
 cask "stapxs-qq-lite" do
     arch arm: "arm64", intel: "x64"
   
-    version "2.8.6"
+    version "2.9.0"
     sha256 arm:   "fd5b2685c7180628271c6b1a61c7300f7a5b82324a0d7af7b1af8a8673f6659b",
            intel: "a931b7e96bdb5493c7e17adf6157d1bfe5f7b65594feb968992b31e13c9f9d57"
   
